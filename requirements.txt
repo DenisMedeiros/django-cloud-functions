@@ -1,0 +1,4 @@
+Django==3.2
+
+# Only if using MySQL.
+PyMySQL==1.0.3
